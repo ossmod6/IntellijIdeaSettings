@@ -1,0 +1,17 @@
+<templateSet group="output">
+  <template name="logslf" value="private static org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger($classname$.class);&#10;" description="slf4j logger declaration &amp; initialization" toReformat="false" toShortenFQNames="true">
+    <variable name="classname" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="loginfo" value="logger.$LEVEL$info(&quot;$TEXT${}&quot;$VARIABLE$);$END$" description="loginfo" toReformat="false" toShortenFQNames="true">
+    <variable name="LEVEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

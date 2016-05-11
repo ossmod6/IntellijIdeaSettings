@@ -1,0 +1,14 @@
+<application>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="100" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
+    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="14" />
+    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
+  </component>
+</application>
