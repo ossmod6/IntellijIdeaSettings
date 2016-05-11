@@ -25,6 +25,9 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift meta m" />
+  </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
