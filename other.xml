@@ -72,6 +72,7 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="http://miaoyu4@192.168.101.19/svn/pre-nwm/pre-nwm" />
         <option value="http://192.168.101.19/svn/base_component_library/BPM" />
         <option value="http://192.168.101.19/svn/nwmss" />
         <option value="http://192.168.101.19/svn/TradeMatch/TradeMatch3.1/Code/tmfront" />
@@ -80,6 +81,7 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="http://miaoyu4@192.168.101.19/svn/pre-nwm/pre-nwm" />
         <option value="http://192.168.101.19/svn/base_component_library/BPM" />
         <option value="http://192.168.101.19/svn/nwmss" />
         <option value="http://192.168.101.19/svn/TradeMatch/TradeMatch3.1/Code/tmfront" />
