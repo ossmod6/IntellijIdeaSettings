@@ -23,6 +23,9 @@
           </option>
         </PlaceSettings>
       </entry>
+      <entry key="DirDiff">
+        <PlaceSettings />
+      </entry>
     </option>
   </component>
   <component name="SvnDiffSettings">
@@ -48,6 +51,9 @@
         <PlaceSettings>
           <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
         </PlaceSettings>
+      </entry>
+      <entry key="DirDiff">
+        <PlaceSettings />
       </entry>
       <entry key="Merge">
         <PlaceSettings />
