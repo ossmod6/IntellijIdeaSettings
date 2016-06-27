@@ -103,6 +103,13 @@
             </set>
           </value>
         </entry>
+        <entry key="http://miaoyu4@192.168.101.19/svn/nwm-act/nwm-act-rest/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/Workspaces/idea/nwm-act-rest" />
+            </set>
+          </value>
+        </entry>
         <entry key="http://miaoyu4@192.168.101.19/svn/nwm-act/nwm-act-web/trunk">
           <value>
             <set>
