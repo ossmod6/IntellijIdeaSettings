@@ -1,8 +1,0 @@
-<templateSet group="plain">
-  <template name="slflogger" value="private static Logger logger = LoggerFactory.getLogger(.class);" description="slf4j logger declaration &amp; initialization" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_STATEMENT" value="false" />
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
-  </template>
-</templateSet>
