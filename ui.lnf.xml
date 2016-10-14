@@ -10,6 +10,5 @@
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="EDITOR_AA_TYPE" value="Greyscale" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="16" />
-    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
   </component>
 </application>
