@@ -3,11 +3,19 @@
     <property name="created">2016-12-01T12:07:29</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2016-12-01T12:22:42</property>
+    <property name="modified">2016-12-01T13:27:35</property>
     <property name="originalScheme">Default</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_LIGATURES" value="true" />
 </scheme>
