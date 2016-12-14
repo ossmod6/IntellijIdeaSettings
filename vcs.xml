@@ -14,9 +14,21 @@
           <option name="url" value="https://github.com/normanmaurer/netty-in-action.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://watercubemio@bitbucket.org/watercubemio/algs4asmt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/watercubemio/algs4asmt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="watercubemio@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Workspaces/idea" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Workspaces/idea/algs4" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/tmp" />
